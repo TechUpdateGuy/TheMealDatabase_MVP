@@ -84,5 +84,5 @@ PROJECT STRUCTURE
 
     - In SwiftUI, AsyncImage breaks the `Vstack` layout contrains if not image is obtained before `Vstack` view is loaded. So it became important to put placeholders in place when image is not obtained.
 
-    - When meal is tapped and shows a detail view, you will see a source link and youtube video link when its is available in JSON file. If it does show up, for either links, when you tap it in xcode preview mode then it won't open. However if you open link in simulator the app redirects it external safari app
+    - When meal is tapped and shows a detail view, you will see a source link and youtube video link when it is available in JSON file. If it does show up, for either links, when you tap it in xcode preview mode then it won't open. However if you open link in simulator the app redirects it external safari app
 
